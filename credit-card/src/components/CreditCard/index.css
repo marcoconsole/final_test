@@ -1,0 +1,23 @@
+.creditCardContainer {
+    border: 2px solid yellow;
+    width: 50vw;
+    height: 100vh;
+    background-color: rgb(199, 185, 209);
+    color: #ffffff;
+    
+}
+
+.creditCard {
+    width: 400px;
+    height: 250px;
+    background-color: rgb(111, 76, 145);
+}
+
+.creditCardText {
+    display: flex; 
+    align-self: flex-end;
+    justify-content: space-between;
+    padding: 0px 20px;
+    margin-top: auto;
+    
+}
